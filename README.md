@@ -27,7 +27,7 @@
 
 [空山五笔](https://github.com/mrshiqiqi/rime-wubi)采用木兰宽松许可证第2版，详见[许可文件](LICENSE-MULAN.md)。
 
-## 关于我们
+## 关于fork的原作者
 
 官方网站：[雨糖科技&lt;https://raincandy.tech&gt;](https://raincandy.tech)  
 GitHub：[雨糖科技&lt;https://github.com/RainCandyTech&gt;](https://github.com/RainCandyTech)
